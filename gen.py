@@ -91,10 +91,6 @@ st.markdown("""
     <div class="dashboard-title">
         2026 Project Timeline Dashboard
     </div>
-
-    <div class="dashboard-subtitle">
-        Interactive Executive Program Visualization
-    </div>
 </div>
 """, unsafe_allow_html=True)
 
